@@ -1,6 +1,4 @@
-Aqui está um modelo de README para o seu projeto de análise exploratória de dados:
 
----
 
 # Análise Exploratória de Dados: Correlacionando Índice Socioeconômico (Inse) e Indicadores Educacionais
 
@@ -71,6 +69,3 @@ Daniel Nozomi Shinjo
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
 
----
-
-Sinta-se à vontade para ajustar ou expandir o README conforme necessário para o seu projeto específico!
