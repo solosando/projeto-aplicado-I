@@ -60,10 +60,10 @@ A partir das correlações e insights gerados na análise exploratória, é poss
 
 ## Contribuições
 Este trabalho foi desenvolvido pelos seguintes alunos da Universidade Presbiteriana Mackenzie do curso de Ciência de Dados:
-Ariel Oliveira Solosando 
-Luis Fernando do Lago Attarian
-Daniel Nozomi Shinjo
-(insiram o link do github de voces aqui, por favor)
+ - Ariel Oliveira Solosando 
+ - Carla de Jesus Dutra Paula
+ - Daniel Nozomi Shinjo
+ - Luis Fernando do Lago Attarian - [@lattarian](https://github.com/lattarian)
 
 ## Licença
 
