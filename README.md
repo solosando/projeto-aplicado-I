@@ -9,8 +9,8 @@ Este projeto tem como objetivo investigar a correlação entre o Índice Socioec
 ## Estrutura do Projeto
 
 - **data/**: Diretório que contém os conjuntos de dados utilizados na análise.
-  - `inse_data.csv`: Dados do Índice Socioeconômico das Escolas.
-  - `saeb_data.csv`: Resultados do Saeb e outros indicadores educacionais.
+  - `inse_data_2021.csv`: Dados do Índice Socioeconômico das Escolas.
+  - `saeb_data_2021.csv`: Resultados do Saeb e outros indicadores educacionais.
 - **notebooks/**: Notebooks Jupyter usados para a exploração e análise dos dados.
   - `eda_inse_saeb.ipynb`: Notebook principal contendo a análise exploratória.
 - **src/**: Código-fonte e funções auxiliares para o projeto.
