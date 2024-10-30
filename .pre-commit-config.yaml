@@ -1,0 +1,12 @@
+repos:
+
+#   Next hooks are Code Quality hooks.
+#   If you want them to run on each commit, uncomment them
+#   These are OPTIONAL.
+
+   - repo: https://github.com/macisamuele/language-formatters-pre-commit-hooks
+     rev: v2.4.0
+     hooks:
+     - id: pretty-format-java
+       args: [--autofix]
+
